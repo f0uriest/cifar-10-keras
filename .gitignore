@@ -1,0 +1,7 @@
+*.gz
+*.pdf
+*.py[cod]
+__pycache__
+*#
+cifar-10-batches-py/
+*.h5
